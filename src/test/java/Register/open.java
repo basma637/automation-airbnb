@@ -83,7 +83,7 @@ public class open {
 			}
 	@AfterTest
  	    public void closedriver() {
-        driver.quit();
+        driver.quit(); //quite driver
 
 }
 	
